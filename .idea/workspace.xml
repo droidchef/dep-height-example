@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57a1b869-95b5-4720-9ac4-a2c95b307afd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/src/main/kotlin/dev/droidchef/foundation/WeakFoundation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/foundation/src/main/kotlin/dev/droidchef/foundation/WeakFoundation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/developer/src/main/kotlin/house/RealEstateDeveloper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/developer/src/main/kotlin/house/RealEstateDeveloper.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669079394269</updated>
-      <workItem from="1669079395347" duration="3334000" />
+      <workItem from="1669079395347" duration="3439000" />
     </task>
     <servers />
   </component>

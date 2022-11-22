@@ -8,6 +8,7 @@ class RealEstateDeveloper {
 
     fun buildASimpleRoom(): FourByFourRoom {
 
+        println("Changing Something in Developer Class")
         val foundation = StrongFoundation()
 
         val walls = ArrayList<Wall>()
