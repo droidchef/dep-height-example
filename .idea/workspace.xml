@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57a1b869-95b5-4720-9ac4-a2c95b307afd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/developer/src/main/kotlin/house/RealEstateDeveloper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/developer/src/main/kotlin/house/RealEstateDeveloper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wall/src/main/kotlin/dev/droidchef/wall/Buildable.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
       </list>
     </option>
   </component>
@@ -62,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669079394269</updated>
-      <workItem from="1669079395347" duration="3439000" />
+      <workItem from="1669079395347" duration="3539000" />
     </task>
     <servers />
   </component>
